@@ -6,5 +6,6 @@ namespace ConsoleApp7
 {
     class NewClass
     {
+        //kom
     }
 }
