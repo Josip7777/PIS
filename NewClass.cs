@@ -6,5 +6,9 @@ namespace ConsoleApp7
 {
     class NewClass
     {
+        public void funkcija()
+        {
+            Console.WriteLine("nova metoda");
+        }
     }
 }
